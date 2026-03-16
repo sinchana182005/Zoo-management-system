@@ -1,0 +1,19 @@
+body{
+font-family: Arial;
+background-color:#f0f8ff;
+text-align:center;
+}
+
+table{
+margin:auto;
+border-collapse:collapse;
+}
+
+th,td{
+padding:10px;
+border:1px solid black;
+}
+
+h1{
+color:#2c3e50;
+}
